@@ -1,5 +1,4 @@
 <?php
-// Desafio 4 - Ranking 
 $participantes = [
     ["nome" => "Ana", "pontos"=> 850],
     ["nome" => "João", "pontos"=> 920],
